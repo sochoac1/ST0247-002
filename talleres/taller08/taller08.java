@@ -1,7 +1,7 @@
 /**
  * Clase en la cual se implementan los metodos del Taller 8
  * 
- * @author Mauricio Toro, Andres Paez
+ * @author Santiago Ochoa Castaño & Miguel Angel Zapata
  */
 public class taller08 {
 	/**
