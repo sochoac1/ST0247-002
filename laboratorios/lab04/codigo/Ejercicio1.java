@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 /**
- * Write a description of class taller06 here.
  * 
  * @author (Miguel Angel Zapata Jimenez && Santiago Ochoa Castaño) 
  * @version (1)
